@@ -3,8 +3,6 @@ layout: post
 title: Goodbyes Can Be Nice
 ---
 
-### Goodbyes can be nice
-
 Today I wrapped up my last lab in my Imaging Science class. It's a relatively
 easy course for non-majors to get their science credits fulfilled. As part of the
 course requirement, there is a lab.

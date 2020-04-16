@@ -37,7 +37,7 @@ plainwhite:
     github: maxcohn
 
 # Build settings
-theme: plainwhite
+theme: paperwhite
 remote_theme: thelehhman/plainwhite-jekyll # this is for github pages
 plugins:
   - jekyll-feed
