@@ -136,8 +136,23 @@ I made sure to move my feet so it could be compared to the feet of the chair it'
 
 ![Southwest underseat 1](../assets/2024-11-26-southwest-underseat-3.jpg)
 
+**Update:** I was able to try it on the window and middle seat on the way back.
+It fit sideways very easily with some wiggle room.
+This was great and it left a good bit of room for legs.
+
+![Southwest underseat sideways](../assets/2024-11-26-southwest-underseat-window.jpg) 
+
 ### Jet Blue
 
 It ended up sticking out a bit over the top, but if I added a compression strap/tie, we're looking in the clear. This is also probably due to the straps being bent and pushing the bag up. If I tucked them away, I think this would be better.
 
 ![JetBlue sizer](../assets/2024-11-26-jetblue-sizer.jpg)
+
+### Frontier
+
+On the return flight, I was able to measure the bag in a Frontier bag sizer.
+
+With how full it was, it required a small amount of force.
+If it was packed a little less, then it likely would've slid in.
+
+![Frontier sizer](../assets/2024-11-26-frontier-sizer.JPEG)
