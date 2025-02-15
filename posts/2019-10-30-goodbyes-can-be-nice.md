@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Goodbyes Can Be Nice
+published: true
 ---
 
 Today I wrapped up my last lab in my Imaging Science class. It's a relatively

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Fun with UNIX: Mass image collection and compilation'
+title: "Fun with UNIX: Mass image collection and compilation"
+published: true
 ---
 
 *Disclaimer: This is not the most efficient or elegant scripting you'll ever see.

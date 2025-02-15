@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Patagonia Mini MLC 30L Packing and Sizing Data Points
+published: true
 ---
 
 # Patagonia Mini MLC 30L Packing and Sizing Data Points

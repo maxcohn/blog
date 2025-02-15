@@ -1,3 +1,6 @@
+---
+published: true
+---
 # Addresses to update when you move
 
 I've moved way too many times and each time I do, I dread having to update my address for every service that requires it.

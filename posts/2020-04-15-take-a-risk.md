@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Take a Risk and Cut Your Own Hair
+published: true
 ---
 
 I'm a pretty routine oriented person. I eat the same foods every week, I take the

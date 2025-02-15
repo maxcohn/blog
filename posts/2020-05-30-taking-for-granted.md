@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Taking things for granted"
+title: Taking things for granted
+published: true
 ---
 
 We never appreciate what we have until we lose it, but I think everyone knows
